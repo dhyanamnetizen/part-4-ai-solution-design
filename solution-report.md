@@ -1,5 +1,5 @@
                                AI SOLUTION DESIGN BRIEF
-========================================================================================
+
 PROBLEM:      Manual triage of ~2,778 tickets/mo wastes 453.8 hours, causes 6.96% 
               errors, and delays support resolutions to a 30.27-hour average baseline.
 ----------------------------------------------------------------------------------------
